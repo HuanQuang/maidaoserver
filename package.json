@@ -4,8 +4,11 @@
   "description": "server tienhanh",
   "main": "server.js",
   "type": "module",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "quanghuan",
