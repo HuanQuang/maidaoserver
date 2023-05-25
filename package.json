@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "server tienhanh",
+  "description": "",
   "main": "server.js",
   "type": "module",
   "engines": {
